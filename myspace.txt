@@ -1,0 +1,2 @@
+a pipeline is a series of automated processes that build, test, and deploy code.
+The goal of a pipeline is to automate the software development process, reducing human error and maintaining consistency
